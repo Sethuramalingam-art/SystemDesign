@@ -1,0 +1,20 @@
+// Structure
+books {
+id,
+title,
+publishedYear,
+author }
+
+author {
+id,
+name,
+books }
+
+// Data
+
+list of books  
+list of authors
+list of books with author details
+list of author with book details
+
+if it is rest api's we need 4 api's to get details but grahql we need one api's
